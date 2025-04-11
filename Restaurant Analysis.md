@@ -1,6 +1,6 @@
 # Restaurant Order Analysis
 
-## [Dataset link](https://app.mavenanalytics.io/guided-projects/d7167b45-6317-49c9-b2bb-42e2a9e9c0bc)
+## [Dataset link](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=restaurant)
 ## Problem Statement
 Help the restaurant owner understand how their business is doing, what the most popular dishes on the menu are, and how much revenue they are bringing in
 
