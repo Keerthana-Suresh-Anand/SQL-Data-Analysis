@@ -1,6 +1,6 @@
 # US Baby Names Analysis
 
-## [Dataset link]([https://app.mavenanalytics.io/guided-projects/d7167b45-6317-49c9-b2bb-42e2a9e9c0bc](https://app.mavenanalytics.io/guided-projects/f71c0a2b-05f4-43fe-a80c-8f3f86964ccc))
+## [Dataset link](https://app.mavenanalytics.io/guided-projects/f71c0a2b-05f4-43fe-a80c-8f3f86964ccc)
 ## Problem Statement
 The dataset has 30 years of baby names from 1980-2009. Track the changes in name popularity, compare popularity across decades and regions. 
 
